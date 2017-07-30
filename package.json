@@ -1,0 +1,11 @@
+{
+    "name": "ep_idea_review",
+    "description": "Authenticating Etherpad-Lite pads using OpenID Connect",
+    "author": "Milosch Meriac <milosch@meriac.com>",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/meriac/ep_idea_review"
+    },
+    "engines": { "node": ">= 0.6.0"}
+}

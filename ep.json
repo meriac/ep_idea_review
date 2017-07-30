@@ -1,0 +1,17 @@
+{
+    "parts": [
+        {
+            "name": "ep_idea_review",
+            "hooks": {
+                "clientVars": "ep_idea_review/index",
+                "eejsBlock_styles": "ep_idea_review/index",
+                "handleMessage": "ep_idea_review/index",
+                "padInitToolbar": "ep_idea_review/index"
+            },
+            "client_hooks": {
+                "aceInitialized": "ep_idea_review/static/js/index",
+                "postToolbarInit": "ep_idea_review/static/js/index"
+            }
+        }
+    ]
+}
